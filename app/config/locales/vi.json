@@ -1,0 +1,18 @@
+{
+  "title" : {
+    "contact": "Danh bạ",
+    "mnpContact": "Danh bạ chuyển mạng",
+    "addContact" : "Liên hệ mới"
+  },
+  "tab": {
+    "contact": "Danh bạ",
+    "mnpContact": "Chuyển mạng",
+    "addContact": "Thêm mới"
+  },
+  "search": "Tìm",
+  "sendMessage": "Gửi tin nhắn",
+  "blockContact": "Chặn số",
+  "deleteContact": "Xóa liên hệ",
+  "requestPermissionMessage" : "Ứng dụng muốn truy cập danh bạ của bạn!",
+  "copied": "Đã sao chép!"
+}

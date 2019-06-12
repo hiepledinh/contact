@@ -1,0 +1,19 @@
+{
+  "title" : {
+    "contact": "Contact",
+    "mnpContact": "MNP Contact",
+    "addContact" : "New Contact"
+  },
+  "tab": {
+    "contact": "Contact",
+    "mnpContact": "Mnp Contact",
+    "addContact": "Add Contact"
+  },
+  "search": "Search",
+  "sendMessage": "Send message",
+  "blockContact": "Block contact",
+  "deleteContact": "Delete contact",
+  "requestPermissionMessage" : "This app would like to read your contact!",
+  "copied": "Copied!"
+
+}
